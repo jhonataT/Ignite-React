@@ -1,0 +1,8 @@
+const user = {
+  name: 'jhonata'
+};
+console.log(user.address?.street);
+const user = {
+  name: 'jhonata'
+};
+console.log(user.address?.street);
