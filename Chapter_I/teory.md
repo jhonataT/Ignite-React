@@ -12,4 +12,5 @@ O que é React?
 - Yarn;
 - VSC
 
-
+## Criando estrutura do projeto
+- Instalando dependencias e estruturando a aplicação (01-github-explorer);
