@@ -14,3 +14,9 @@ O que é React?
 
 ## Criando estrutura do projeto
 - Instalando dependencias e estruturando a aplicação (01-github-explorer);
+
+## Configurando Babel
+- Biblioteca/Ferramenta que serve para converter o nosso código para que todos os navegadores entendam a aplicação.
+- @babel/core -> 99% das funcionalidades do babel estão aqui;
+- @babel/cli -> poder conseguir executar o babel através linha de comando
+- @babel/preset-env -> uma extensão do babel que identifica o ambiente de execução para converter da melhor forma possível
