@@ -20,3 +20,6 @@ O que é React?
 - @babel/core -> 99% das funcionalidades do babel estão aqui;
 - @babel/cli -> poder conseguir executar o babel através linha de comando
 - @babel/preset-env -> uma extensão do babel que identifica o ambiente de execução para converter da melhor forma possível
+
+## Configurando Webpack
+- Na maioria das vezes utilizada junto ao Babel para estipular uma série de configurações que vão ensinar à nossa aplicação, como deve ser tratado cada arquivo.
