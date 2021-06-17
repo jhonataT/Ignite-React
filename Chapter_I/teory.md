@@ -23,3 +23,6 @@ O que é React?
 
 ## Configurando Webpack
 - Na maioria das vezes utilizada junto ao Babel para estipular uma série de configurações que vão ensinar à nossa aplicação, como deve ser tratado cada arquivo.
+
+## Estrutura do ReactJS
+- Nesta aula, começamos a configurar a nossa estrutura para conseguirmos visualizar o React funcionando na nossa página.
