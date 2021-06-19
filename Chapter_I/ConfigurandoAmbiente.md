@@ -29,3 +29,7 @@ O que é React?
 
 ## Servindo HTML estático
 - Melhorando estrutura através do html-webpack-plugin.
+
+## Webpack Dev Server
+- Utilizando a funcionalidade de Dev Server do Webpack;
+- Objetivo: fazer com que o webpack fique 'observando' as alterações da pasta src e assim criar um novo bundle.
