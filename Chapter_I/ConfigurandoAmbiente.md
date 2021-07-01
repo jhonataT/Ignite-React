@@ -33,3 +33,6 @@ O que é React?
 ## Webpack Dev Server
 - Utilizando a funcionalidade de Dev Server do Webpack;
 - Objetivo: fazer com que o webpack fique 'observando' as alterações da pasta src e assim criar um novo bundle.
+
+## Utilizando source maps
+- Configurando source maps (Forma de conseguir visualizar código original da aplicação).
