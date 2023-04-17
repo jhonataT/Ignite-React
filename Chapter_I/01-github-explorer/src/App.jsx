@@ -1,8 +1,3 @@
-import './styles/global.scss';
+import React from 'react';
 
-export const App = () => {
-    // console.error("ERRO AQUI");
-    return(
-        <h1>Hello World, heha</h1>
-    )
-}
+export const App = () => <h1>Hello, World!</h1>
